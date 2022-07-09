@@ -3,7 +3,7 @@ let ye = `@${m.sender.split`@`[0]}`
 let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 Nih Link Sc Nya Dibawah :
-https://youtu.be/AXPzjQ5jxx8
+https://github.com/zeroo24/Sc-Botz
 
 ```Jangan lupa follow tiktokku juga ya :v```
 https://vt.tiktok.com/ZSRJsVYBX/`
